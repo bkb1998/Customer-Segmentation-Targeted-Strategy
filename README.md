@@ -92,3 +92,8 @@ This project analyzes **AdventureWorks sales data** to extract insights on custo
 
 ---
 
+## 👩‍💻 Author  
+**Bhairavi Brahme**  
+- Data & Analytics Enthusiast  
+- [LinkedIn](https://www.linkedin.com/in/bhairavibrahme)
+
